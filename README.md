@@ -17,7 +17,7 @@ SpottedIgBot is a bot designed to automatically post anonymous entries from [tel
     ```
     python -m pip install -r requirements.txt
     ```
-4. Open the website [tellonem.me](https://tellonem.me).
+4. Open the website [tellonym.me](https://tellonym.me).
 5. Log in to your Tellonym account.
 6. Open the file named "GetTellToken.js".
 7. Copy the code from the "GetTellToken.js" file.
