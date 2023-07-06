@@ -1,6 +1,6 @@
 # SpottedIgBot
 
-SpottedIgBot is a bot designed to automatically post anonymous entries from [tellonem.me](https://tellonem.me) to Instagram. Please note that this bot was developed solely for educational purposes, and using it may result in a ban on both Instagram and Tellonyme platforms. Therefore, you should use it at your own risk.
+SpottedIgBot is a bot designed to automatically post anonymous entries from [tellonym.me](https://tellonym.me) to Instagram. Please note that this bot was developed solely for educational purposes, and using it may result in a ban on both Instagram and Tellonyme platforms. Therefore, you should use it at your own risk.
 
 ## How to Use
 
